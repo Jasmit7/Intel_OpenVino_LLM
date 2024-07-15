@@ -1,4 +1,4 @@
-```markdown
+
 # Mistral-7B Logical Reasoning AI
 
 ## Project Overview
