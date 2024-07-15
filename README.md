@@ -114,7 +114,3 @@ For questions or feedback, please open an issue in this repository.
 
 ---
 
-This project represents a significant step forward in AI-driven logical reasoning. We're excited to see how it will be used to solve complex problems and drive innovation across various fields.
-```
-
-This README now includes more detailed information about the installation process, usage instructions, fine-tuning process, and other relevant details from the PDF. The term "instruct_tune_dataset" has been replaced with "dataset" as requested.
