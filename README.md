@@ -1,5 +1,3 @@
-Certainly. I'll update the README file with information from the PDF, replacing "instruct_tune_dataset" with "dataset" as requested. Here's the enhanced README:
-
 ```markdown
 # Mistral-7B Logical Reasoning AI
 
